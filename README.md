@@ -8,4 +8,4 @@ A mini-project created as part of programming lessons in the summer semester of 
 
 ## Slovenský text (Slovak description)…
 
-Miniprojekt vytvorený v rámci hodín programovania v letnom semestri roku 2022. Ide o ukážku klasickej hry Stena. Projekt je postavený na báze frameworku [GRobot](https://github.com/raubirius/GRobot).
+Miniprojekt vytvorený v&nbsp;rámci hodín programovania v&nbsp;letnom semestri roku 2022. Ide o&nbsp;ukážku klasickej hry Stena. Projekt je postavený na báze frameworku [GRobot](https://github.com/raubirius/GRobot).
