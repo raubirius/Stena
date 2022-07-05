@@ -2,7 +2,7 @@
 
 ![Preview](Stena.png)
 
-*Slovenský text nájdete nižšie (for Slovak scroll down).*
+*Slovenský text je nižšie (for Slovak scroll/look down).*
 
 A mini-project created as part of programming lessons in the summer semester of 2022. It is a sample of the classic game Stena (The Wall). The project is based on the [GRobot](https://github.com/raubirius/GRobot) framework.
 
